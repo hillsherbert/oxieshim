@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://waibighohd.chen-hao.com.cn/sitemap.xml
